@@ -24,10 +24,9 @@ settings:
     language: en
 ````
 
-
-
-
-
+## Form
 ![Form](readme/form.png)
 
+## Result
+![Result](readme/result.png)
 
