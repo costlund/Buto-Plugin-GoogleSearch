@@ -23,3 +23,11 @@ settings:
   i18n:
     language: en
 ````
+
+
+
+
+
+![Form](readme/form.png)
+
+
