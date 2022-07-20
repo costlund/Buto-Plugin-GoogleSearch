@@ -1,0 +1,10 @@
+-
+  type: script
+  attribute: 
+    async: true
+    src: rs:src
+-
+  type: div
+  attribute: 
+    class: gcse-search
+  innerHTML: 
