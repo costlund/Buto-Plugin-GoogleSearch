@@ -5,6 +5,7 @@ class PluginGoogleSearch{
      * 
      */
     wfPlugin::includeonce('wf/yml');
+    wfPlugin::includeonce('wf/array');
     $data = new PluginWfArray($data);
     /**
      * validate

@@ -1,15 +1,21 @@
 version: 1.0.0
 history:
   1.0.0:
-    date: '2022-06-10'
+    date: '2022-07-20'
     title: 'First version'
     description: 'First version. Manifest created.'
-plugin: {  }
+plugin:
+  -
+    name: wf/yml
+    version: 1.4.0
+  -
+    name: wf/array
+    version: 1.2.3
 sys:
   -
     name: mercury
     version:
-      - 2.61.0
+      - 2.61.1
 php:
   version:
     - 7.4.21
